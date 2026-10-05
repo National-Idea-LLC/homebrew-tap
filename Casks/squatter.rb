@@ -1,6 +1,6 @@
 cask "squatter" do
-  version "0.4.1"
-  sha256 "c9506341fd58106809033120ff4c8b893d544dad90e98c50b981dce18f7c8beb"
+  version "0.4.2"
+  sha256 "80fef11bdb9a8a5e72dfd0b9da3a8ef3c84e2289a4f46ac87fe8c73fb31303f3"
 
   url "https://github.com/National-Idea-LLC/squatter/releases/download/v#{version}/Squatter-#{version}.dmg",
       verified: "github.com/National-Idea-LLC/squatter/"
